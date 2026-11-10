@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "Introduction to Internet of Things (IoT)"
-date: 2026-11-10
-categories: [Cloud Manufacturing, IoT]
+date: 2026-11-10 09:00:00 +0800
+categories: [cloud-manufacturing, iot]
+permalink: /introduction-to-iot/
 ---
 
 # Introduction to Internet of Things (IoT)
