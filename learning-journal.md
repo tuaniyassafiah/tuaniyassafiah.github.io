@@ -4,8 +4,6 @@ title: Learning Journal
 permalink: /learning-journal/
 ---
 
-# Learning Journal
-
 ## Introduction
 
 This learning journal documents my learning progress and understanding of Cloud Manufacturing and its related technologies. Throughout this learning experience, I have explored different concepts, applications, and digital technologies that contribute to the transformation of traditional manufacturing into intelligent and connected manufacturing systems.
