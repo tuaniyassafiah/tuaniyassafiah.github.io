@@ -1,0 +1,62 @@
+
+---
+---
+
+@import "minima";
+
+/* Main website appearance */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.7;
+  color: #333333;
+  background-color: #ffffff;
+}
+
+/* Website header */
+.site-header {
+  border-top: 5px solid #2563a6;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.site-title {
+  font-weight: 700;
+  color: #1e3a5f !important;
+}
+
+/* Navigation menu */
+.site-nav .page-link {
+  font-weight: 600;
+  color: #2563a6;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #1e3a5f;
+  font-weight: 700;
+}
+
+/* Links */
+a {
+  color: #2563a6;
+}
+
+a:hover {
+  color: #163b65;
+  text-decoration: underline;
+}
+
+/* Article content */
+.post-content {
+  line-height: 1.8;
+}
+
+/* Code blocks */
+pre, code {
+  border-radius: 5px;
+}
+
+/* Footer */
+.site-footer {
+  background-color: #f5f7fa;
+  border-top: 1px solid #e5e7eb;
+}
